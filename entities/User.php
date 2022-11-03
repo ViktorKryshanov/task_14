@@ -11,5 +11,5 @@ abstract class User implements EventListenerInterface
 }
 
 
-require_once '/interfaces/EventListenerInterface.php';
-require_once '/interfaces/LoggerInterface.php';
+require_once '../interfaces/EventListenerInterface.php';
+require_once '../interfaces/LoggerInterface.php';
